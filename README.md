@@ -13,7 +13,7 @@ Hello there! I'm Timo, currently learning Python.
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-**Python Skill Level:** ![===========](https://progress-bar.dev/15/)
+**Python Skill Level:** ![===========](https://progress-bar.dev/100/)
 
 ## Let's Connect!
 Feel free to connect with me on Discord: [timoo4dev#0](https://discord.com/users/1078242409495932969)
