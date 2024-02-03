@@ -14,7 +14,9 @@ Hello there! I'm Timo, currently learning Python.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 **Python Skill Level:** ![===========](https://progress-bar.dev/100/)
+
 **Html / CSS Skill Level:** ![===========](https://progress-bar.dev/100/)
+
 **JS Skill Level:** ![](https://progress-bar.dev/0/)
 
 ## Let's Connect!
