@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on [Discord bots](https://discord.gg/NvqhuWGmAX)
   
 
-- 🌱 I’m currently learning Swift  
-  
-
 <br/>  
 
 
