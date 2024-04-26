@@ -1,8 +1,4 @@
 ### **<ins><div align="center">I'm Timo S, a hobby developer 👨‍💻 from Germany, working since 2020🚀</div></ins>**  
-  
-
-- 🔭 I’m currently working on [Discord bots](https://discord.gg/NvqhuWGmAX)
-  
 
 <br/>  
 
