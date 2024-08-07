@@ -1,5 +1,7 @@
 ### **<ins><div align="center">I'm Timo S, a hobby developer 👨‍💻 from Germany, working since 2020🚀</div></ins>**  
 
+https://discord.c99.nl/widget/theme-4/1078242409495932969.png
+
 <br/>  
 
 
