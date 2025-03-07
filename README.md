@@ -1,4 +1,4 @@
-### **<ins><div align="center">I'm Timo S, a hobby developer 👨‍💻 from Germany, working since 2020🚀</div></ins>**  
+### **<ins><div align="center">I'm Felix S, a hobby developer 👨‍💻 from Germany, working since 2020🚀</div></ins>**  
 
 ![Timo](https://discord.c99.nl/widget/theme-4/1078242409495932969.png)
 
@@ -75,7 +75,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=timoo4devv&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=invalidfelix&&style=flat-square" align="center" />
 </div>  
   
 
